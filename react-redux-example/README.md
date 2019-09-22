@@ -1,6 +1,3 @@
-# Install Redux
-npm install redux react-redux redux-thunk
-
 # Install dependencies
 npm install
 
